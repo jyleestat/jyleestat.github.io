@@ -293,13 +293,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      classes: wide
-      
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      classes: wide
-      layout: single
+      #classes: wide
+      toc: true
